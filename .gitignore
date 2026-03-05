@@ -1,6 +1,9 @@
 # OpenCode config (contains API keys)
 opencode.json
 
+# Agent instructions
+AGENTS.md
+
 # Unity generated
 /[Ll]ibrary/
 /[Tt]emp/
